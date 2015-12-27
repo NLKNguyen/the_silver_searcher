@@ -88,6 +88,11 @@ or
         pkg_add the_silver_searcher
 
 
+### Windows
+
+* Using Chocolatey
+
+        choco install ag
 
 ## Building from source
 
